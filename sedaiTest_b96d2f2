@@ -1,0 +1,5 @@
+Type: AWS::Lambda::Function
+Properties: 
+  FunctionName: sedaiTest_b96d2f2
+  MemorySize: 256
+  Timeout: 32
