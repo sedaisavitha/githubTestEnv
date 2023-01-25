@@ -1,0 +1,5 @@
+Type: AWS::Lambda::Function
+Properties: 
+  FunctionName: python-extension-test
+  MemorySize: 
+  Timeout: 15
